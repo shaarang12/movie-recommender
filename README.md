@@ -1,6 +1,6 @@
 # Movie Recommender
 
-![Movie Recommender]((https://github.com/shaarang12/movie-recommender/blob/main/movie_recommender.webp))
+![Movie Recommender](https://github.com/shaarang12/movie-recommender/blob/main/movie_recommender.webp)
 
 ## Table of Contents
 - [Overview](#overview)
